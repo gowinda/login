@@ -64,3 +64,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - xml (enabled by default - don't turn it off)
 "# login" 
 "# income" 
+"# inc" 
